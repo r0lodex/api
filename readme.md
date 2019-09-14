@@ -8,7 +8,7 @@ Thank you for considering contributing to the Ethipay! Fork this repo and PR as 
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Ethipay, please send an e-mail to Irfan Radzi via [irfan@mrjunior.my](mailto:irfan@mrjunior.my). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within Ethipay, please send an e-mail to [@r0lodex](https://github.com/r0lodex) via [irfan@mrjunior.my](mailto:irfan@mrjunior.my). All security vulnerabilities will be promptly addressed.
 
 ## License
 
